@@ -385,29 +385,6 @@
             menuToggle.classList.toggle('active');
             navigation.classList.toggle('active');
         }
-        function calculaIdade(dataNasc){
-        var dataAtual = new Date();
-        var anoAtual = dataAtual.getFullYear();
-        var anoNascParts = dataNasc.split('/');
-        var diaNasc =anoNascParts[0];
-        var mesNasc =anoNascParts[1];
-        var anoNasc =anoNascParts[2];
-        var idade = anoAtual - anoNasc;
-        var mesAtual = dataAtual.getMonth() + 1;
-            //se mês atual for menor que o nascimento, nao fez aniversario ainda; (26/10/2009)
-                if(mesAtual < mesNasc){
-                idade--;
-                }else {
-                //se estiver no mes do nasc, verificar o dia
-                if(mesAtual == mesNasc){
-                    if(dataAtual.getDate() < diaNasc ){
-                    //se a data atual for menor que o dia de nascimento ele ainda nao fez aniversario
-                    idade--;
-                    }
-                }
-            }
-            return idade;
-        }
     </script>
 
 </body>
