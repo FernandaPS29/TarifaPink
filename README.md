@@ -21,6 +21,7 @@
 - Não, utilizariamos as mesmas tecnologia caso pretendessemos fazer uma solução para Web. 
 
 ## Site
+<img src="https://github.com/FernandaPS29/TarifaPink/blob/main/imagens_readme/site.png" width="200">
 [![](https://github.com/FernandaPS29/TarifaPink/blob/main/imagens_readme/site.png)]( https://tarifapink.netlify.app/)
 
 ## Instagram
