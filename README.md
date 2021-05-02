@@ -20,7 +20,6 @@
 ## Se vocês fossem participar de um hackathon semana que vem, fariam algo de diferente com relação às escolhas das tecnologias utilizadas?
 - Não, utilizariamos as mesmas tecnologia caso pretendessemos fazer uma solução para Web. 
 
-<img width="200">
 ## Site
 [![](https://github.com/FernandaPS29/TarifaPink/blob/main/imagens_readme/site.png)]( https://tarifapink.netlify.app/)
 
