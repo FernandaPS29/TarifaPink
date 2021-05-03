@@ -27,7 +27,7 @@
 [![](https://github.com/FernandaPS29/TarifaPink/blob/main/imagens_readme/instagram.png)]( https://www.instagram.com/tarifapink/)
 
 ## Pitch
-[![](https://github.com/FernandaPS29/TarifaPink/blob/main/imagens_readme/pitch.png)]( https://www.youtube.com/)
+[![](https://github.com/FernandaPS29/TarifaPink/blob/main/imagens_readme/pitch.png)](https://youtu.be/uYWDkSmpW2I)
 
 ## Validação
 [![](https://github.com/FernandaPS29/TarifaPink/blob/main/imagens_readme/validacao.png)](https://forms.gle/j2j4mN67PikGLE8WA)
